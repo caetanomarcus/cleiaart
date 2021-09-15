@@ -8,7 +8,7 @@ export const S_header = {
         justify-content: space-between;
         align-items: center;
         background-color: #E6A8FC ;
-        box-shadow: 0 3px 2px 5px gray;
+        /* box-shadow: 0 3px 2px 5px gray; */
         /* z-index: 2; */
     `,
 
