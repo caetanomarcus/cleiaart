@@ -14,7 +14,7 @@ const Header = () => {
         ItemMenuImage,
         ItemMenuText
         } = S_header;
-    const [menuItems, setMenuItems] = useState([
+    const [menuItems] = useState([
         {name: 'início', id: 1},
         {name: 'produtos', id: 2},
         {name: 'sobre', id: 3}
